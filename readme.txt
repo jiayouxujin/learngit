@@ -1,3 +1,4 @@
+i forget to add username and eamil
 now i learn git again!
 Git is a distributed version control system.
 
